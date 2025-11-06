@@ -155,6 +155,9 @@ HoReCa_Venture.ipynb             → Main EDA and analysis notebook
 Zomato Dataset.csv               → Dataset used for insights  
 Presentation(HoReCa).pdf         → Final presentation slides
 
+📽️ Presentation (Canva Link):
+👉(https://www.canva.com/design/DAG30jcHZ9s/bbKfdxTFUoxKOovMd1Y90w/view?utm_content=DAG30jcHZ9s&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0148e2b538)
+
 🎯 Conclusion
 ---
 This project translates Zomato’s restaurant data into an actionable HoReCa launch playbook — helping new entrepreneurs choose the right cuisines, right cities, and right price points for maximum traction and profitability.
